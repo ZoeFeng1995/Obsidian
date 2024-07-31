@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1ddc54571cf97aef",
+        "id": "bec42b0e37c29068",
         "type": "tabs",
         "children": [
           {
-            "id": "5697e905c57e951e",
+            "id": "e6f88c27c0bf0aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Git/Git同步方案.md",
+                "file": "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/movie/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a12c2c2fdd72e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/日常生活（开放目标）/撸铁/【动作】之肩部训练.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8818fe4f585b0005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/豆瓣同步结果_20240728144757.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Git/Git同步方案.md",
+                "file": "Obsidian Vault/日常生活（开放目标）/撸铁/【动作】之肩部训练.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/Git/Git同步方案.md",
+                "file": "Obsidian Vault/日常生活（开放目标）/撸铁/【动作】之肩部训练.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/Git/Git同步方案.md"
+                "file": "Obsidian Vault/日常生活（开放目标）/撸铁/【动作】之肩部训练.md"
               }
             }
           }
@@ -138,18 +163,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "5697e905c57e951e",
+  "active": "95a12c2c2fdd72e9",
   "lastOpenFiles": [
-    "Obsidian Vault/项目管理/工作实录/AI平台问题.md",
-    "Obsidian Vault/Git/Git同步方案.md",
-    "Obsidian Vault/Git"
+    "Obsidian Vault/日常生活（开放目标）/撸铁/基础概念.md",
+    "Obsidian Vault/日常生活（开放目标）/撸铁/【动作】之肩部训练.md",
+    "Obsidian Vault/日常生活（开放目标）/撸铁",
+    "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/movie/我不是药神.md",
+    "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/movie/未命名.md",
+    "assets/p2561305376.jpg",
+    "Obsidian Vault/个人思考（由内而外）/Thinking.md",
+    "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/豆瓣同步结果_20240728144757.md",
+    "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）/movie",
+    "assets",
+    "Obsidian Vault/知识管理（外部输入）/音（播客）",
+    "Obsidian Vault/知识管理（外部输入）/影（电影&剧集）",
+    "Obsidian Vault/知识管理（外部输入）/书（阅读）",
+    "未命名",
+    "Obsidian Vault/日常生活（开放目标）",
+    "Obsidian Vault/个人规划（强目标）",
+    "Obsidian Vault/知识管理/AI平台问题.md",
+    "Obsidian Vault/知识管理（外部输入）/项目管理",
+    "Obsidian Vault/漫画制作.md",
+    "Obsidian Vault/健康检查/牙齿治疗.md",
+    "未命名.canvas",
+    "Obsidian Vault/微信读书/个人成长/21天说服力养成（独家定制版）-【美】诺瓦·戈尔茨坦 【美】史蒂夫·马丁 【美】罗伯特·西奥迪尼.md",
+    "Obsidian Vault/微信读书/文学/老人与海（译文经典）-海明威.md",
+    "Obsidian Vault/知识管理（外部输入）/Git同步方案.md",
+    "Obsidian Vault/微信读书/个人成长/优秀的绵羊-威廉·德雷谢维奇.md",
+    "Obsidian Vault/微信读书/教育学习/相约星期二-米奇·阿尔博姆.md",
+    "Obsidian Vault/微信读书/个人成长/感谢自己的不完美（升级版）-武志红.md",
+    "Obsidian Vault/微信读书/个人成长/谁动了我的奶酪-斯宾塞·约翰逊.md",
+    "Obsidian Vault/微信读书/哲学宗教/思辨与立场：生活中无处不在的批判性思维工具-【美】理查德·保罗等.md",
+    "Obsidian Vault/微信读书/个人成长/向上生长-九边.md",
+    "Obsidian Vault/微信读书/个人成长/时间管理：如何充分利用你的24小时（漫画版） (简单有趣的个人管理丛书)-吉姆兰德尔.md",
+    "Obsidian Vault/微信读书/个人成长/穷查理宝典：查理·芒格智慧箴言录（全新增订本）-彼得·考夫曼.md",
+    "Obsidian Vault/微信读书/哲学宗教/活出生命的意义-【奥】维克多·弗兰克尔.md",
+    "Obsidian Vault/微信读书/个人成长/好好学习：个人知识管理精进指南-成甲.md",
+    "Obsidian Vault/微信读书/精品小说/坏小孩（秦昊、王景春《隐秘的角落》原著）-紫金陈.md",
+    "Obsidian Vault/微信读书/教育学习/终身幼儿园-米切尔·雷斯尼克.md",
+    "Obsidian Vault/微信读书/哲学宗教/人生的智慧-叔本华.md",
+    "Obsidian Vault/微信读书/心理/亲密关系-克里斯多福·孟.md"
   ]
 }
